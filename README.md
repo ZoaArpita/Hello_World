@@ -1,2 +1,1 @@
-# Hello_World
-Hello world testing
+print('Hello World')
